@@ -12,6 +12,10 @@ body {
     border-radius: 15px;
 }
 
+.card div {
+    padding: 20px;
+}
+
 #company {
     font-family: "DM Sans", sans-serif;
     font-weight: 600;
