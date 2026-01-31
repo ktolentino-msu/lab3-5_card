@@ -9,12 +9,15 @@ body {
     margin: 0 auto;
     width: 500px;
     color: #37323E;
+    border-radius: 15px;
 }
 
 #company {
     font-family: "DM Sans", sans-serif;
+    font-weight: 600;
 }
 
 h1 {
   background-color: #DEB841;
+  padding: 20px;
 }
