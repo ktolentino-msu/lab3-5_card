@@ -50,3 +50,13 @@ p {
     font-weight: 400;
     color: #766153;
 }
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    color: #766153;
+}
+
+li {
+    margin-bottom: 8px;
+}
