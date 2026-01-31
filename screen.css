@@ -24,4 +24,6 @@ body {
 h1 {
   background-color: #DEB841;
   padding: 20px;
+  margin: 0;
+  border-radius: 16 16 0 0;
 }
