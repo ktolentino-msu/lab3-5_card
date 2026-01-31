@@ -1,16 +1,17 @@
 /* Add screen styles below */
 
 body {
-    background: #37323E;
+    background: #adc178;
     margin-top: 100px;
+    font-family: "DM Sans", sans-serif;
 }
 
 .card {
-    background: #D9D9D9;
+    background: #eff1ed;
     margin: 0 auto;
     width: 500px;
     height: 300px;
-    color: #37323E;
+    color: #373d20;
     border-radius: 16px;
     box-shadow: 0 0 30px rgba(0,0,0,0.4);
 }
@@ -20,18 +21,32 @@ body {
 }
 
 #company {
-    font-family: "DM Sans", sans-serif;
-    font-weight: 600;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 h1 {
-  background-color: #DEB841;
+  background-color: #373d20;
+  color: #eff1ed;
   padding: 20px;
   margin: 0;
+  border-bottom: #717744;
   border-radius: 16px 16px 0 0;
 }
 
 img {
     float: left;
     margin-right: 20px;
+    border-radius: 2px;
+    border: #766153;
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    font-weight: 400;
+    color: #766153;
 }
